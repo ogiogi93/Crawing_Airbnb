@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.tsv
+*.swp
+*.csv
+*.msg
+*.egg-info
+*~
+*#
+/.idea
+
+log/
+
+.python-version
