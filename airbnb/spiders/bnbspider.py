@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author: LUKA
+# Base Author: LUKA
 # http://www.verginer.eu/blog/web-scraping-airbnb/
 
 import scrapy
